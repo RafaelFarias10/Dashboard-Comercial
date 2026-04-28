@@ -1,0 +1,501 @@
+﻿ID_Venda;Data_Venda;Mes;Regiao;Produto;Preco_Unitario;Quantidade;Desconto;Total_Venda;Tipo_Pagamento;Vendedor
+1;04/11/2024;11;Norte;Mouse Gamer;180.0;2;3.0%;349.2;Pix;Carlos Mendes
+2;24/11/2024;11;Sul;Smartphone Samsung;1800.0;5;6.0%;8460.0;Débito;Carlos Mendes
+3;08/04/2024;4;Sul;SSD 1TB;380.0;1;8.0%;349.6;Pix;Tatiana Braga
+4;15/04/2024;4;Sul;Mouse Gamer;180.0;1;11.0%;160.2;Débito;Tatiana Braga
+5;09/06/2024;6;Nordeste;Teclado Mecânico;320.0;3;2.0%;940.8;Crédito;Carlos Mendes
+6;28/06/2024;6;Centro-Oeste;SSD 1TB;380.0;3;12.0%;1003.2;Pix;Lucas Ferreira
+7;04/09/2024;9;Sudeste;Smartphone Samsung;1800.0;5;4.0%;8640.0;Pix;Rafael Souza
+8;07/10/2024;10;Norte;Notebook Dell;3200.0;2;12.0%;5632.0;Débito;João Victor
+9;13/02/2024;2;Centro-Oeste;Tablet Lenovo;1400.0;3;2.0%;4116.0;Crédito;João Victor
+10;09/11/2024;11;Norte;SSD 1TB;380.0;2;8.0%;699.2;Débito;Fernanda Lima
+11;13/08/2024;8;Centro-Oeste;Impressora HP;680.0;2;10.0%;1224.0;Débito;João Victor
+12;26/01/2024;1;Centro-Oeste;Webcam HD;250.0;3;1.0%;742.5;Pix;Rafael Souza
+13;21/04/2024;4;Sudeste;Webcam HD;250.0;4;2.0%;980.0;Débito;João Victor
+14;18/12/2024;12;Sul;Mouse Gamer;180.0;5;6.0%;846.0;Pix;Tatiana Braga
+15;08/06/2024;6;Nordeste;Impressora HP;680.0;4;1.0%;2692.8;Débito;Carlos Mendes
+16;21/03/2024;3;Nordeste;Webcam HD;250.0;5;1.0%;1237.5;Crédito;Lucas Ferreira
+17;09/09/2024;9;Sul;Notebook Dell;3200.0;1;10.0%;2880.0;Pix;Mariana Costa
+18;11/11/2024;11;Norte;Mouse Gamer;180.0;4;2.0%;705.6;Débito;Mariana Costa
+19;25/09/2024;9;Nordeste;Impressora HP;680.0;1;13.0%;591.6;Crédito;João Victor
+20;12/03/2024;3;Nordeste;Impressora HP;680.0;5;14.0%;2924.0;Pix;Rafael Souza
+21;01/08/2024;8;Norte;Headset Bluetooth;420.0;3;4.0%;1209.6;Débito;Carlos Mendes
+22;24/02/2024;2;Sudeste;Smartphone Samsung;1800.0;5;11.0%;8010.0;Débito;Lucas Ferreira
+23;06/09/2024;9;Centro-Oeste;Impressora HP;680.0;5;6.0%;3196.0;Débito;João Victor
+24;10/12/2024;12;Sudeste;Headset Bluetooth;420.0;4;13.0%;1461.6;Crédito;Carlos Mendes
+25;08/04/2024;4;Norte;Headset Bluetooth;420.0;1;9.0%;382.2;Débito;João Victor
+26;03/01/2024;1;Norte;Teclado Mecânico;320.0;1;14.0%;275.2;Crédito;Carlos Mendes
+27;08/09/2024;9;Centro-Oeste;Tablet Lenovo;1400.0;2;8.0%;2576.0;Pix;Lucas Ferreira
+28;26/04/2024;4;Sudeste;Webcam HD;250.0;2;1.0%;495.0;Pix;Tatiana Braga
+29;14/06/2024;6;Sudeste;Tablet Lenovo;1400.0;1;10.0%;1260.0;Pix;Carlos Mendes
+30;13/01/2024;1;Centro-Oeste;Smartphone Samsung;1800.0;2;3.0%;3492.0;Pix;Lucas Ferreira
+31;14/03/2024;3;Nordeste;Mouse Gamer;180.0;4;4.0%;691.2;Débito;Lucas Ferreira
+32;04/09/2024;9;Norte;Impressora HP;680.0;1;15.0%;578.0;Débito;Fernanda Lima
+33;16/07/2024;7;Sudeste;Teclado Mecânico;320.0;4;14.0%;1100.8;Débito;Tatiana Braga
+34;13/01/2024;1;Centro-Oeste;Tablet Lenovo;1400.0;3;6.0%;3948.0;Pix;Lucas Ferreira
+35;07/03/2024;3;Centro-Oeste;Teclado Mecânico;320.0;1;9.0%;291.2;Pix;Ana Paula
+36;11/12/2024;12;Norte;Notebook Dell;3200.0;5;7.0%;14880.0;Pix;Fernanda Lima
+37;17/01/2024;1;Norte;"Monitor LG 24""";950.0;1;9.0%;864.5;Pix;João Victor
+38;04/07/2024;7;Sul;Teclado Mecânico;320.0;5;9.0%;1456.0;Pix;Carlos Mendes
+39;22/07/2024;7;Sul;SSD 1TB;380.0;5;5.0%;1805.0;Crédito;João Victor
+40;23/11/2024;11;Centro-Oeste;Teclado Mecânico;320.0;3;6.0%;902.4;Pix;Mariana Costa
+41;11/08/2024;8;Norte;Notebook Dell;3200.0;4;9.0%;11648.0;Pix;Carlos Mendes
+42;18/02/2024;2;Nordeste;Impressora HP;680.0;3;2.0%;1999.2;Crédito;Carlos Mendes
+43;12/04/2024;4;Centro-Oeste;"Monitor LG 24""";950.0;4;13.0%;3306.0;Pix;Mariana Costa
+44;26/10/2024;10;Sul;Notebook Dell;3200.0;5;4.0%;15360.0;Pix;Carlos Mendes
+45;09/03/2024;3;Norte;Smartphone Samsung;1800.0;5;2.0%;8820.0;Crédito;João Victor
+46;11/12/2024;12;Nordeste;Mouse Gamer;180.0;5;7.0%;837.0;Débito;Carlos Mendes
+47;14/11/2024;11;Centro-Oeste;Notebook Dell;3200.0;1;5.0%;3040.0;Débito;Mariana Costa
+48;24/03/2024;3;Sudeste;Impressora HP;680.0;4;8.0%;2502.4;Débito;Carlos Mendes
+49;05/12/2024;12;Sul;Notebook Dell;3200.0;3;9.0%;8736.0;Débito;Tatiana Braga
+50;02/03/2024;3;Centro-Oeste;Headset Bluetooth;420.0;1;13.0%;365.4;Débito;João Victor
+51;04/11/2024;11;Centro-Oeste;Impressora HP;680.0;4;15.0%;2312.0;Pix;Fernanda Lima
+52;28/04/2024;4;Nordeste;"Monitor LG 24""";950.0;4;0.0%;3800.0;Pix;Rafael Souza
+53;26/07/2024;7;Nordeste;Mouse Gamer;180.0;2;12.0%;316.8;Débito;Tatiana Braga
+54;28/01/2024;1;Sudeste;Teclado Mecânico;320.0;2;12.0%;563.2;Crédito;Rafael Souza
+55;27/05/2024;5;Nordeste;Teclado Mecânico;320.0;1;10.0%;288.0;Crédito;Rafael Souza
+56;28/05/2024;5;Norte;Mouse Gamer;180.0;3;10.0%;486.0;Crédito;Rafael Souza
+57;04/01/2024;1;Centro-Oeste;"Monitor LG 24""";950.0;5;14.0%;4085.0;Crédito;Ana Paula
+58;20/02/2024;2;Sudeste;Headset Bluetooth;420.0;3;7.0%;1171.8;Pix;Carlos Mendes
+59;19/07/2024;7;Nordeste;Mouse Gamer;180.0;1;11.0%;160.2;Débito;João Victor
+60;14/06/2024;6;Norte;Headset Bluetooth;420.0;5;5.0%;1995.0;Débito;Mariana Costa
+61;10/09/2024;9;Sudeste;Headset Bluetooth;420.0;4;10.0%;1512.0;Pix;Fernanda Lima
+62;14/04/2024;4;Sudeste;"Monitor LG 24""";950.0;5;9.0%;4322.5;Crédito;Ana Paula
+63;10/05/2024;5;Nordeste;Webcam HD;250.0;5;9.0%;1137.5;Crédito;Lucas Ferreira
+64;15/08/2024;8;Nordeste;Impressora HP;680.0;4;12.0%;2393.6;Pix;Fernanda Lima
+65;03/11/2024;11;Centro-Oeste;Impressora HP;680.0;5;5.0%;3230.0;Débito;Mariana Costa
+66;26/04/2024;4;Nordeste;"Monitor LG 24""";950.0;1;1.0%;940.5;Crédito;Carlos Mendes
+67;14/08/2024;8;Sul;Teclado Mecânico;320.0;4;7.0%;1190.4;Débito;Fernanda Lima
+68;23/11/2024;11;Norte;Smartphone Samsung;1800.0;4;3.0%;6984.0;Pix;Lucas Ferreira
+69;18/01/2024;1;Nordeste;Smartphone Samsung;1800.0;4;2.0%;7056.0;Crédito;Rafael Souza
+70;20/08/2024;8;Sul;Webcam HD;250.0;5;7.0%;1162.5;Débito;Lucas Ferreira
+71;09/08/2024;8;Nordeste;Mouse Gamer;180.0;5;7.0%;837.0;Débito;Mariana Costa
+72;03/08/2024;8;Centro-Oeste;Teclado Mecânico;320.0;3;5.0%;912.0;Pix;Carlos Mendes
+73;05/03/2024;3;Nordeste;Webcam HD;250.0;2;11.0%;445.0;Débito;Tatiana Braga
+74;11/07/2024;7;Sul;Tablet Lenovo;1400.0;4;1.0%;5544.0;Crédito;Tatiana Braga
+75;23/10/2024;10;Norte;SSD 1TB;380.0;4;7.0%;1413.6;Crédito;Mariana Costa
+76;28/07/2024;7;Sudeste;Impressora HP;680.0;5;12.0%;2992.0;Débito;Lucas Ferreira
+77;09/04/2024;4;Sudeste;Tablet Lenovo;1400.0;1;6.0%;1316.0;Pix;Tatiana Braga
+78;06/12/2024;12;Sudeste;"Monitor LG 24""";950.0;5;8.0%;4370.0;Crédito;Ana Paula
+79;21/02/2024;2;Sudeste;"Monitor LG 24""";950.0;4;3.0%;3686.0;Crédito;Tatiana Braga
+80;07/06/2024;6;Sudeste;Headset Bluetooth;420.0;3;11.0%;1121.4;Crédito;Mariana Costa
+81;09/07/2024;7;Norte;Tablet Lenovo;1400.0;1;11.0%;1246.0;Débito;Rafael Souza
+82;21/04/2024;4;Norte;Notebook Dell;3200.0;1;14.0%;2752.0;Débito;Ana Paula
+83;05/10/2024;10;Nordeste;"Monitor LG 24""";950.0;4;10.0%;3420.0;Pix;João Victor
+84;23/08/2024;8;Centro-Oeste;Headset Bluetooth;420.0;2;9.0%;764.4;Pix;Carlos Mendes
+85;10/03/2024;3;Norte;SSD 1TB;380.0;1;14.0%;326.8;Pix;Tatiana Braga
+86;23/07/2024;7;Nordeste;Smartphone Samsung;1800.0;5;10.0%;8100.0;Pix;João Victor
+87;23/02/2024;2;Centro-Oeste;SSD 1TB;380.0;1;12.0%;334.4;Pix;Ana Paula
+88;18/06/2024;6;Sudeste;Headset Bluetooth;420.0;1;8.0%;386.4;Crédito;Ana Paula
+89;27/07/2024;7;Sudeste;Smartphone Samsung;1800.0;4;14.0%;6192.0;Pix;Lucas Ferreira
+90;05/12/2024;12;Sudeste;"Monitor LG 24""";950.0;5;14.0%;4085.0;Crédito;Lucas Ferreira
+91;14/08/2024;8;Sul;Mouse Gamer;180.0;3;13.0%;469.8;Débito;Mariana Costa
+92;08/08/2024;8;Sudeste;SSD 1TB;380.0;5;10.0%;1710.0;Crédito;Ana Paula
+93;28/08/2024;8;Centro-Oeste;"Monitor LG 24""";950.0;4;3.0%;3686.0;Crédito;Rafael Souza
+94;20/05/2024;5;Centro-Oeste;Impressora HP;680.0;1;8.0%;625.6;Débito;Carlos Mendes
+95;24/04/2024;4;Sudeste;Tablet Lenovo;1400.0;5;11.0%;6230.0;Pix;Lucas Ferreira
+96;23/11/2024;11;Sudeste;Tablet Lenovo;1400.0;1;1.0%;1386.0;Débito;Tatiana Braga
+97;08/12/2024;12;Centro-Oeste;SSD 1TB;380.0;3;7.0%;1060.2;Pix;Rafael Souza
+98;24/07/2024;7;Sul;Headset Bluetooth;420.0;3;11.0%;1121.4;Crédito;Mariana Costa
+99;08/05/2024;5;Norte;Teclado Mecânico;320.0;3;2.0%;940.8;Pix;Fernanda Lima
+100;07/04/2024;4;Sudeste;Mouse Gamer;180.0;5;15.0%;765.0;Pix;Mariana Costa
+101;27/02/2024;2;Nordeste;Mouse Gamer;180.0;2;5.0%;342.0;Crédito;Ana Paula
+102;18/12/2024;12;Nordeste;Mouse Gamer;180.0;1;15.0%;153.0;Pix;Mariana Costa
+103;05/12/2024;12;Sudeste;Smartphone Samsung;1800.0;1;9.0%;1638.0;Crédito;Lucas Ferreira
+104;11/08/2024;8;Nordeste;Notebook Dell;3200.0;3;14.0%;8256.0;Crédito;Carlos Mendes
+105;13/02/2024;2;Sudeste;Smartphone Samsung;1800.0;5;9.0%;8190.0;Débito;Fernanda Lima
+106;26/03/2024;3;Sul;Mouse Gamer;180.0;1;15.0%;153.0;Débito;Tatiana Braga
+107;20/10/2024;10;Sul;Teclado Mecânico;320.0;5;6.0%;1504.0;Crédito;Mariana Costa
+108;14/10/2024;10;Centro-Oeste;SSD 1TB;380.0;5;1.0%;1881.0;Pix;Carlos Mendes
+109;21/04/2024;4;Nordeste;Mouse Gamer;180.0;1;2.0%;176.4;Débito;Carlos Mendes
+110;01/03/2024;3;Sudeste;Tablet Lenovo;1400.0;5;7.0%;6510.0;Débito;João Victor
+111;23/05/2024;5;Centro-Oeste;Tablet Lenovo;1400.0;1;10.0%;1260.0;Crédito;João Victor
+112;04/07/2024;7;Sul;Teclado Mecânico;320.0;2;14.0%;550.4;Débito;Carlos Mendes
+113;06/01/2024;1;Centro-Oeste;SSD 1TB;380.0;5;14.0%;1634.0;Crédito;Carlos Mendes
+114;23/08/2024;8;Centro-Oeste;Webcam HD;250.0;3;8.0%;690.0;Crédito;Lucas Ferreira
+115;20/02/2024;2;Norte;Webcam HD;250.0;3;9.0%;682.5;Débito;Carlos Mendes
+116;22/04/2024;4;Sul;SSD 1TB;380.0;1;15.0%;323.0;Pix;Mariana Costa
+117;02/10/2024;10;Nordeste;Tablet Lenovo;1400.0;5;10.0%;6300.0;Crédito;Fernanda Lima
+118;14/10/2024;10;Sudeste;Smartphone Samsung;1800.0;4;5.0%;6840.0;Crédito;Rafael Souza
+119;04/11/2024;11;Nordeste;Headset Bluetooth;420.0;4;10.0%;1512.0;Crédito;Tatiana Braga
+120;02/09/2024;9;Sudeste;Smartphone Samsung;1800.0;3;4.0%;5184.0;Débito;Tatiana Braga
+121;27/09/2024;9;Norte;Impressora HP;680.0;4;6.0%;2556.8;Débito;Rafael Souza
+122;25/10/2024;10;Sudeste;Tablet Lenovo;1400.0;1;3.0%;1358.0;Pix;Fernanda Lima
+123;15/05/2024;5;Sudeste;Smartphone Samsung;1800.0;1;15.0%;1530.0;Pix;João Victor
+124;06/12/2024;12;Centro-Oeste;Impressora HP;680.0;1;8.0%;625.6;Débito;João Victor
+125;15/02/2024;2;Norte;"Monitor LG 24""";950.0;4;14.0%;3268.0;Crédito;Mariana Costa
+126;27/07/2024;7;Sudeste;Tablet Lenovo;1400.0;2;7.0%;2604.0;Débito;Tatiana Braga
+127;20/04/2024;4;Sul;"Monitor LG 24""";950.0;1;4.0%;912.0;Crédito;Rafael Souza
+128;09/09/2024;9;Norte;Mouse Gamer;180.0;3;13.0%;469.8;Pix;Lucas Ferreira
+129;15/03/2024;3;Sul;Tablet Lenovo;1400.0;3;5.0%;3990.0;Pix;Tatiana Braga
+130;11/08/2024;8;Nordeste;Teclado Mecânico;320.0;5;6.0%;1504.0;Crédito;Ana Paula
+131;24/06/2024;6;Sudeste;Webcam HD;250.0;4;15.0%;850.0;Pix;Fernanda Lima
+132;02/08/2024;8;Nordeste;Impressora HP;680.0;5;5.0%;3230.0;Débito;Lucas Ferreira
+133;17/02/2024;2;Sudeste;Notebook Dell;3200.0;2;6.0%;6016.0;Pix;Fernanda Lima
+134;16/02/2024;2;Centro-Oeste;Headset Bluetooth;420.0;5;10.0%;1890.0;Pix;Carlos Mendes
+135;28/06/2024;6;Sul;Webcam HD;250.0;3;9.0%;682.5;Crédito;Ana Paula
+136;03/10/2024;10;Nordeste;Mouse Gamer;180.0;2;11.0%;320.4;Crédito;Carlos Mendes
+137;23/11/2024;11;Norte;Tablet Lenovo;1400.0;2;10.0%;2520.0;Débito;Ana Paula
+138;26/06/2024;6;Norte;Mouse Gamer;180.0;3;6.0%;507.6;Débito;João Victor
+139;14/09/2024;9;Sul;"Monitor LG 24""";950.0;2;3.0%;1843.0;Pix;Tatiana Braga
+140;22/10/2024;10;Nordeste;Tablet Lenovo;1400.0;5;2.0%;6860.0;Crédito;Mariana Costa
+141;09/08/2024;8;Norte;Tablet Lenovo;1400.0;3;10.0%;3780.0;Débito;Carlos Mendes
+142;12/08/2024;8;Sul;Mouse Gamer;180.0;4;10.0%;648.0;Crédito;Mariana Costa
+143;13/04/2024;4;Sudeste;Smartphone Samsung;1800.0;2;6.0%;3384.0;Crédito;Mariana Costa
+144;10/12/2024;12;Norte;Webcam HD;250.0;3;0.0%;750.0;Pix;Ana Paula
+145;24/10/2024;10;Sudeste;Mouse Gamer;180.0;2;9.0%;327.6;Crédito;João Victor
+146;07/11/2024;11;Sul;Mouse Gamer;180.0;2;9.0%;327.6;Pix;Ana Paula
+147;26/05/2024;5;Sudeste;Notebook Dell;3200.0;5;5.0%;15200.0;Débito;Carlos Mendes
+148;11/05/2024;5;Sudeste;"Monitor LG 24""";950.0;2;2.0%;1862.0;Pix;Rafael Souza
+149;17/09/2024;9;Centro-Oeste;"Monitor LG 24""";950.0;3;14.0%;2451.0;Crédito;Mariana Costa
+150;28/12/2024;12;Centro-Oeste;Smartphone Samsung;1800.0;4;14.0%;6192.0;Débito;João Victor
+151;24/11/2024;11;Sudeste;Impressora HP;680.0;3;1.0%;2019.6;Crédito;Ana Paula
+152;18/05/2024;5;Norte;Tablet Lenovo;1400.0;3;10.0%;3780.0;Pix;Mariana Costa
+153;13/10/2024;10;Centro-Oeste;Smartphone Samsung;1800.0;2;7.0%;3348.0;Pix;Rafael Souza
+154;08/10/2024;10;Norte;Tablet Lenovo;1400.0;3;10.0%;3780.0;Débito;Fernanda Lima
+155;02/01/2024;1;Centro-Oeste;Tablet Lenovo;1400.0;1;1.0%;1386.0;Pix;Fernanda Lima
+156;15/07/2024;7;Centro-Oeste;Impressora HP;680.0;4;9.0%;2475.2;Pix;Fernanda Lima
+157;21/07/2024;7;Norte;Tablet Lenovo;1400.0;5;6.0%;6580.0;Crédito;Ana Paula
+158;12/12/2024;12;Nordeste;Tablet Lenovo;1400.0;4;14.0%;4816.0;Crédito;Carlos Mendes
+159;12/11/2024;11;Sul;Headset Bluetooth;420.0;1;6.0%;394.8;Débito;Carlos Mendes
+160;03/08/2024;8;Nordeste;SSD 1TB;380.0;1;1.0%;376.2;Crédito;João Victor
+161;26/03/2024;3;Sul;Teclado Mecânico;320.0;1;12.0%;281.6;Pix;João Victor
+162;07/10/2024;10;Nordeste;Headset Bluetooth;420.0;2;12.0%;739.2;Pix;Ana Paula
+163;28/05/2024;5;Nordeste;"Monitor LG 24""";950.0;5;4.0%;4560.0;Débito;Carlos Mendes
+164;28/11/2024;11;Norte;"Monitor LG 24""";950.0;1;5.0%;902.5;Débito;Rafael Souza
+165;06/01/2024;1;Centro-Oeste;Notebook Dell;3200.0;2;11.0%;5696.0;Pix;Carlos Mendes
+166;03/12/2024;12;Sudeste;Tablet Lenovo;1400.0;3;8.0%;3864.0;Débito;Lucas Ferreira
+167;08/09/2024;9;Sul;Notebook Dell;3200.0;5;5.0%;15200.0;Pix;Ana Paula
+168;16/01/2024;1;Sudeste;Webcam HD;250.0;1;7.0%;232.5;Crédito;Carlos Mendes
+169;11/02/2024;2;Sul;"Monitor LG 24""";950.0;1;2.0%;931.0;Pix;Rafael Souza
+170;20/07/2024;7;Sul;Mouse Gamer;180.0;4;8.0%;662.4;Crédito;Carlos Mendes
+171;04/12/2024;12;Sul;Teclado Mecânico;320.0;4;7.0%;1190.4;Débito;Tatiana Braga
+172;27/06/2024;6;Sudeste;Webcam HD;250.0;4;11.0%;890.0;Crédito;Tatiana Braga
+173;22/06/2024;6;Centro-Oeste;Headset Bluetooth;420.0;2;10.0%;756.0;Crédito;Carlos Mendes
+174;27/02/2024;2;Norte;Smartphone Samsung;1800.0;4;1.0%;7128.0;Pix;Rafael Souza
+175;18/03/2024;3;Norte;SSD 1TB;380.0;5;8.0%;1748.0;Pix;Carlos Mendes
+176;12/07/2024;7;Sudeste;Notebook Dell;3200.0;3;9.0%;8736.0;Crédito;Carlos Mendes
+177;17/10/2024;10;Nordeste;"Monitor LG 24""";950.0;4;3.0%;3686.0;Débito;Rafael Souza
+178;12/09/2024;9;Norte;Mouse Gamer;180.0;5;3.0%;873.0;Crédito;Ana Paula
+179;22/10/2024;10;Centro-Oeste;Notebook Dell;3200.0;2;4.0%;6144.0;Crédito;Rafael Souza
+180;01/06/2024;6;Nordeste;"Monitor LG 24""";950.0;5;10.0%;4275.0;Débito;Fernanda Lima
+181;21/12/2024;12;Norte;Smartphone Samsung;1800.0;5;3.0%;8730.0;Crédito;Lucas Ferreira
+182;06/06/2024;6;Centro-Oeste;Mouse Gamer;180.0;3;12.0%;475.2;Pix;Carlos Mendes
+183;05/01/2024;1;Nordeste;SSD 1TB;380.0;1;10.0%;342.0;Crédito;Lucas Ferreira
+184;14/11/2024;11;Sudeste;SSD 1TB;380.0;4;6.0%;1428.8;Débito;Carlos Mendes
+185;14/06/2024;6;Norte;Mouse Gamer;180.0;5;7.0%;837.0;Pix;Mariana Costa
+186;08/01/2024;1;Sudeste;SSD 1TB;380.0;1;0.0%;380.0;Crédito;João Victor
+187;25/03/2024;3;Centro-Oeste;Mouse Gamer;180.0;3;2.0%;529.2;Crédito;Tatiana Braga
+188;05/03/2024;3;Sudeste;Impressora HP;680.0;2;8.0%;1251.2;Pix;Rafael Souza
+189;13/02/2024;2;Norte;Webcam HD;250.0;1;7.0%;232.5;Débito;Rafael Souza
+190;14/10/2024;10;Sul;Webcam HD;250.0;4;4.0%;960.0;Crédito;Ana Paula
+191;06/06/2024;6;Sul;Tablet Lenovo;1400.0;3;1.0%;4158.0;Débito;João Victor
+192;19/07/2024;7;Sudeste;Impressora HP;680.0;1;6.0%;639.2;Crédito;Rafael Souza
+193;11/04/2024;4;Nordeste;Smartphone Samsung;1800.0;5;9.0%;8190.0;Pix;João Victor
+194;12/06/2024;6;Nordeste;Teclado Mecânico;320.0;1;2.0%;313.6;Débito;Fernanda Lima
+195;05/10/2024;10;Norte;"Monitor LG 24""";950.0;4;7.0%;3534.0;Pix;Lucas Ferreira
+196;19/11/2024;11;Sul;Headset Bluetooth;420.0;3;2.0%;1234.8;Débito;Lucas Ferreira
+197;21/08/2024;8;Centro-Oeste;Mouse Gamer;180.0;5;1.0%;891.0;Pix;Carlos Mendes
+198;15/05/2024;5;Sudeste;Notebook Dell;3200.0;1;6.0%;3008.0;Crédito;Carlos Mendes
+199;28/11/2024;11;Norte;SSD 1TB;380.0;5;8.0%;1748.0;Crédito;Ana Paula
+200;26/08/2024;8;Sul;Teclado Mecânico;320.0;3;9.0%;873.6;Pix;Fernanda Lima
+201;15/01/2024;1;Norte;Headset Bluetooth;420.0;1;8.0%;386.4;Débito;Ana Paula
+202;23/04/2024;4;Sudeste;Tablet Lenovo;1400.0;5;8.0%;6440.0;Débito;Rafael Souza
+203;10/06/2024;6;Sudeste;Webcam HD;250.0;3;10.0%;675.0;Débito;Rafael Souza
+204;11/02/2024;2;Norte;Impressora HP;680.0;4;4.0%;2611.2;Pix;Fernanda Lima
+205;03/06/2024;6;Sul;"Monitor LG 24""";950.0;3;5.0%;2707.5;Pix;Tatiana Braga
+206;20/03/2024;3;Norte;Mouse Gamer;180.0;5;6.0%;846.0;Crédito;Fernanda Lima
+207;23/11/2024;11;Sul;Smartphone Samsung;1800.0;4;8.0%;6624.0;Débito;Rafael Souza
+208;06/05/2024;5;Nordeste;Headset Bluetooth;420.0;4;3.0%;1629.6;Débito;Fernanda Lima
+209;10/02/2024;2;Norte;Impressora HP;680.0;5;13.0%;2958.0;Pix;Ana Paula
+210;11/11/2024;11;Sul;"Monitor LG 24""";950.0;5;6.0%;4465.0;Débito;Fernanda Lima
+211;25/12/2024;12;Sul;"Monitor LG 24""";950.0;4;1.0%;3762.0;Crédito;João Victor
+212;20/08/2024;8;Centro-Oeste;Tablet Lenovo;1400.0;2;8.0%;2576.0;Crédito;Lucas Ferreira
+213;12/04/2024;4;Sul;Tablet Lenovo;1400.0;4;12.0%;4928.0;Crédito;Tatiana Braga
+214;27/03/2024;3;Nordeste;SSD 1TB;380.0;2;13.0%;661.2;Débito;Lucas Ferreira
+215;18/06/2024;6;Norte;Impressora HP;680.0;1;4.0%;652.8;Débito;Mariana Costa
+216;17/08/2024;8;Nordeste;Webcam HD;250.0;1;14.0%;215.0;Débito;Lucas Ferreira
+217;01/06/2024;6;Sudeste;Notebook Dell;3200.0;4;8.0%;11776.0;Débito;Tatiana Braga
+218;12/02/2024;2;Nordeste;Notebook Dell;3200.0;3;14.0%;8256.0;Pix;Rafael Souza
+219;05/03/2024;3;Norte;Mouse Gamer;180.0;4;10.0%;648.0;Débito;Lucas Ferreira
+220;20/08/2024;8;Norte;Smartphone Samsung;1800.0;1;4.0%;1728.0;Débito;Tatiana Braga
+221;25/02/2024;2;Centro-Oeste;Teclado Mecânico;320.0;3;2.0%;940.8;Débito;Tatiana Braga
+222;26/11/2024;11;Sul;Tablet Lenovo;1400.0;1;2.0%;1372.0;Crédito;Ana Paula
+223;17/11/2024;11;Sul;Teclado Mecânico;320.0;2;4.0%;614.4;Débito;Rafael Souza
+224;19/04/2024;4;Sudeste;"Monitor LG 24""";950.0;1;8.0%;874.0;Crédito;Carlos Mendes
+225;18/09/2024;9;Sul;Impressora HP;680.0;5;0.0%;3400.0;Crédito;Ana Paula
+226;13/11/2024;11;Centro-Oeste;Mouse Gamer;180.0;1;5.0%;171.0;Débito;Rafael Souza
+227;24/04/2024;4;Norte;SSD 1TB;380.0;3;2.0%;1117.2;Crédito;Rafael Souza
+228;06/11/2024;11;Sudeste;Tablet Lenovo;1400.0;2;12.0%;2464.0;Débito;Lucas Ferreira
+229;10/01/2024;1;Nordeste;Notebook Dell;3200.0;2;13.0%;5568.0;Crédito;Mariana Costa
+230;13/09/2024;9;Sul;Tablet Lenovo;1400.0;3;1.0%;4158.0;Pix;João Victor
+231;12/05/2024;5;Norte;Headset Bluetooth;420.0;3;2.0%;1234.8;Crédito;Tatiana Braga
+232;24/07/2024;7;Sudeste;Webcam HD;250.0;3;15.0%;637.5;Crédito;Lucas Ferreira
+233;26/06/2024;6;Sul;Mouse Gamer;180.0;1;11.0%;160.2;Débito;Tatiana Braga
+234;27/10/2024;10;Nordeste;Impressora HP;680.0;3;5.0%;1938.0;Débito;Rafael Souza
+235;10/11/2024;11;Centro-Oeste;Tablet Lenovo;1400.0;5;11.0%;6230.0;Débito;Lucas Ferreira
+236;15/06/2024;6;Norte;Headset Bluetooth;420.0;5;15.0%;1785.0;Crédito;Ana Paula
+237;22/02/2024;2;Sudeste;Headset Bluetooth;420.0;5;12.0%;1848.0;Pix;Fernanda Lima
+238;05/01/2024;1;Sul;Tablet Lenovo;1400.0;1;2.0%;1372.0;Débito;Rafael Souza
+239;13/06/2024;6;Sul;Notebook Dell;3200.0;5;2.0%;15680.0;Crédito;Rafael Souza
+240;15/06/2024;6;Norte;SSD 1TB;380.0;2;8.0%;699.2;Crédito;Rafael Souza
+241;09/11/2024;11;Nordeste;Smartphone Samsung;1800.0;1;11.0%;1602.0;Crédito;Tatiana Braga
+242;04/09/2024;9;Centro-Oeste;Mouse Gamer;180.0;4;3.0%;698.4;Pix;Mariana Costa
+243;16/12/2024;12;Nordeste;Smartphone Samsung;1800.0;2;13.0%;3132.0;Crédito;Fernanda Lima
+244;15/12/2024;12;Norte;Headset Bluetooth;420.0;3;11.0%;1121.4;Pix;Mariana Costa
+245;28/05/2024;5;Nordeste;"Monitor LG 24""";950.0;3;8.0%;2622.0;Débito;João Victor
+246;08/03/2024;3;Sudeste;Notebook Dell;3200.0;3;8.0%;8832.0;Crédito;Lucas Ferreira
+247;05/09/2024;9;Sul;Smartphone Samsung;1800.0;1;5.0%;1710.0;Pix;Lucas Ferreira
+248;14/09/2024;9;Sudeste;SSD 1TB;380.0;1;2.0%;372.4;Crédito;Carlos Mendes
+249;15/08/2024;8;Sul;Headset Bluetooth;420.0;2;13.0%;730.8;Pix;Fernanda Lima
+250;14/03/2024;3;Sul;Notebook Dell;3200.0;1;8.0%;2944.0;Crédito;Fernanda Lima
+251;11/03/2024;3;Nordeste;Headset Bluetooth;420.0;5;13.0%;1827.0;Débito;Mariana Costa
+252;21/04/2024;4;Sul;Mouse Gamer;180.0;2;9.0%;327.6;Pix;Carlos Mendes
+253;21/09/2024;9;Nordeste;SSD 1TB;380.0;5;2.0%;1862.0;Pix;Rafael Souza
+254;02/10/2024;10;Norte;Smartphone Samsung;1800.0;1;14.0%;1548.0;Pix;Mariana Costa
+255;07/11/2024;11;Sul;Webcam HD;250.0;5;10.0%;1125.0;Crédito;Mariana Costa
+256;10/11/2024;11;Sudeste;Teclado Mecânico;320.0;4;4.0%;1228.8;Débito;Ana Paula
+257;15/03/2024;3;Sudeste;Tablet Lenovo;1400.0;4;3.0%;5432.0;Pix;Fernanda Lima
+258;28/06/2024;6;Centro-Oeste;Headset Bluetooth;420.0;4;2.0%;1646.4;Crédito;Carlos Mendes
+259;08/06/2024;6;Sudeste;Smartphone Samsung;1800.0;3;7.0%;5022.0;Débito;Carlos Mendes
+260;10/01/2024;1;Sudeste;SSD 1TB;380.0;4;4.0%;1459.2;Débito;Rafael Souza
+261;24/10/2024;10;Centro-Oeste;Teclado Mecânico;320.0;2;7.0%;595.2;Pix;Lucas Ferreira
+262;10/08/2024;8;Sudeste;Notebook Dell;3200.0;1;14.0%;2752.0;Pix;Lucas Ferreira
+263;07/04/2024;4;Sul;Headset Bluetooth;420.0;1;1.0%;415.8;Crédito;Lucas Ferreira
+264;18/05/2024;5;Norte;Smartphone Samsung;1800.0;4;2.0%;7056.0;Crédito;Rafael Souza
+265;12/07/2024;7;Norte;Webcam HD;250.0;1;9.0%;227.5;Débito;Rafael Souza
+266;10/09/2024;9;Norte;Webcam HD;250.0;5;7.0%;1162.5;Pix;Mariana Costa
+267;22/10/2024;10;Sul;Smartphone Samsung;1800.0;2;15.0%;3060.0;Crédito;Rafael Souza
+268;18/06/2024;6;Centro-Oeste;"Monitor LG 24""";950.0;2;9.0%;1729.0;Crédito;Ana Paula
+269;02/01/2024;1;Nordeste;Headset Bluetooth;420.0;4;8.0%;1545.6;Débito;Fernanda Lima
+270;20/06/2024;6;Centro-Oeste;"Monitor LG 24""";950.0;4;15.0%;3230.0;Pix;Mariana Costa
+271;11/10/2024;10;Sul;Impressora HP;680.0;5;7.0%;3162.0;Pix;Mariana Costa
+272;27/08/2024;8;Norte;Headset Bluetooth;420.0;3;10.0%;1134.0;Crédito;Mariana Costa
+273;28/12/2024;12;Norte;SSD 1TB;380.0;4;4.0%;1459.2;Pix;João Victor
+274;02/12/2024;12;Sul;Tablet Lenovo;1400.0;2;8.0%;2576.0;Pix;Tatiana Braga
+275;27/03/2024;3;Nordeste;Notebook Dell;3200.0;5;14.0%;13760.0;Débito;João Victor
+276;15/01/2024;1;Centro-Oeste;Webcam HD;250.0;2;6.0%;470.0;Débito;Tatiana Braga
+277;25/09/2024;9;Sul;Tablet Lenovo;1400.0;1;11.0%;1246.0;Pix;João Victor
+278;11/09/2024;9;Sudeste;Impressora HP;680.0;4;5.0%;2584.0;Débito;Lucas Ferreira
+279;11/09/2024;9;Sul;Headset Bluetooth;420.0;3;9.0%;1146.6;Débito;João Victor
+280;18/05/2024;5;Centro-Oeste;Teclado Mecânico;320.0;3;12.0%;844.8;Pix;João Victor
+281;23/12/2024;12;Sudeste;Headset Bluetooth;420.0;4;5.0%;1596.0;Pix;Mariana Costa
+282;04/05/2024;5;Sul;Impressora HP;680.0;4;13.0%;2366.4;Crédito;Rafael Souza
+283;10/03/2024;3;Norte;Mouse Gamer;180.0;1;5.0%;171.0;Crédito;Mariana Costa
+284;16/12/2024;12;Nordeste;Teclado Mecânico;320.0;5;4.0%;1536.0;Pix;Mariana Costa
+285;04/03/2024;3;Sul;SSD 1TB;380.0;2;4.0%;729.6;Pix;João Victor
+286;08/11/2024;11;Norte;Smartphone Samsung;1800.0;4;5.0%;6840.0;Crédito;Carlos Mendes
+287;25/11/2024;11;Nordeste;Notebook Dell;3200.0;5;15.0%;13600.0;Débito;Tatiana Braga
+288;16/11/2024;11;Sudeste;Teclado Mecânico;320.0;3;5.0%;912.0;Pix;Ana Paula
+289;21/02/2024;2;Sul;Teclado Mecânico;320.0;5;11.0%;1424.0;Débito;Fernanda Lima
+290;27/07/2024;7;Nordeste;Notebook Dell;3200.0;4;12.0%;11264.0;Débito;Mariana Costa
+291;01/01/2024;1;Centro-Oeste;SSD 1TB;380.0;5;2.0%;1862.0;Crédito;Mariana Costa
+292;21/08/2024;8;Sul;Impressora HP;680.0;4;13.0%;2366.4;Débito;Lucas Ferreira
+293;07/05/2024;5;Norte;Headset Bluetooth;420.0;2;11.0%;747.6;Pix;Mariana Costa
+294;06/12/2024;12;Norte;Headset Bluetooth;420.0;3;9.0%;1146.6;Débito;Fernanda Lima
+295;28/10/2024;10;Sudeste;Webcam HD;250.0;5;5.0%;1187.5;Crédito;Carlos Mendes
+296;05/03/2024;3;Sudeste;Headset Bluetooth;420.0;2;0.0%;840.0;Crédito;João Victor
+297;25/08/2024;8;Centro-Oeste;Headset Bluetooth;420.0;3;9.0%;1146.6;Pix;Ana Paula
+298;21/05/2024;5;Centro-Oeste;Teclado Mecânico;320.0;1;10.0%;288.0;Crédito;Mariana Costa
+299;13/03/2024;3;Sul;Mouse Gamer;180.0;1;10.0%;162.0;Crédito;Rafael Souza
+300;08/10/2024;10;Nordeste;"Monitor LG 24""";950.0;4;2.0%;3724.0;Pix;Rafael Souza
+301;23/07/2024;7;Sul;Tablet Lenovo;1400.0;5;12.0%;6160.0;Débito;João Victor
+302;25/11/2024;11;Sul;Smartphone Samsung;1800.0;5;7.0%;8370.0;Pix;Rafael Souza
+303;19/02/2024;2;Norte;Notebook Dell;3200.0;5;14.0%;13760.0;Débito;Fernanda Lima
+304;11/03/2024;3;Sul;Tablet Lenovo;1400.0;1;10.0%;1260.0;Pix;Lucas Ferreira
+305;17/02/2024;2;Sudeste;Notebook Dell;3200.0;4;2.0%;12544.0;Crédito;Lucas Ferreira
+306;02/10/2024;10;Sul;Tablet Lenovo;1400.0;3;11.0%;3738.0;Crédito;Mariana Costa
+307;24/01/2024;1;Nordeste;SSD 1TB;380.0;1;1.0%;376.2;Crédito;Carlos Mendes
+308;02/09/2024;9;Norte;Tablet Lenovo;1400.0;1;4.0%;1344.0;Débito;Fernanda Lima
+309;24/11/2024;11;Sudeste;Headset Bluetooth;420.0;4;7.0%;1562.4;Crédito;Tatiana Braga
+310;22/02/2024;2;Sul;"Monitor LG 24""";950.0;3;2.0%;2793.0;Pix;Tatiana Braga
+311;05/09/2024;9;Nordeste;Notebook Dell;3200.0;1;15.0%;2720.0;Crédito;Tatiana Braga
+312;13/09/2024;9;Nordeste;Teclado Mecânico;320.0;4;5.0%;1216.0;Crédito;João Victor
+313;25/12/2024;12;Norte;Notebook Dell;3200.0;4;9.0%;11648.0;Débito;João Victor
+314;03/04/2024;4;Norte;SSD 1TB;380.0;1;7.0%;353.4;Pix;Ana Paula
+315;24/04/2024;4;Norte;Webcam HD;250.0;4;4.0%;960.0;Débito;Ana Paula
+316;17/03/2024;3;Centro-Oeste;Teclado Mecânico;320.0;5;5.0%;1520.0;Pix;Rafael Souza
+317;10/04/2024;4;Nordeste;Impressora HP;680.0;2;6.0%;1278.4;Crédito;Ana Paula
+318;19/09/2024;9;Nordeste;Webcam HD;250.0;5;7.0%;1162.5;Crédito;Tatiana Braga
+319;11/09/2024;9;Sudeste;Webcam HD;250.0;2;4.0%;480.0;Débito;Lucas Ferreira
+320;28/04/2024;4;Nordeste;Mouse Gamer;180.0;2;12.0%;316.8;Débito;Tatiana Braga
+321;18/07/2024;7;Sul;"Monitor LG 24""";950.0;4;4.0%;3648.0;Débito;Rafael Souza
+322;03/11/2024;11;Sudeste;Headset Bluetooth;420.0;1;8.0%;386.4;Débito;Ana Paula
+323;13/05/2024;5;Sul;SSD 1TB;380.0;1;13.0%;330.6;Débito;João Victor
+324;07/08/2024;8;Centro-Oeste;Mouse Gamer;180.0;1;3.0%;174.6;Débito;Carlos Mendes
+325;25/12/2024;12;Sudeste;Teclado Mecânico;320.0;5;11.0%;1424.0;Crédito;João Victor
+326;11/09/2024;9;Centro-Oeste;Webcam HD;250.0;4;8.0%;920.0;Crédito;Mariana Costa
+327;12/05/2024;5;Sul;Tablet Lenovo;1400.0;4;1.0%;5544.0;Pix;Lucas Ferreira
+328;07/06/2024;6;Centro-Oeste;Headset Bluetooth;420.0;4;1.0%;1663.2;Débito;Fernanda Lima
+329;09/01/2024;1;Sul;SSD 1TB;380.0;5;11.0%;1691.0;Crédito;Fernanda Lima
+330;11/04/2024;4;Nordeste;Webcam HD;250.0;5;13.0%;1087.5;Crédito;Rafael Souza
+331;25/05/2024;5;Sudeste;Tablet Lenovo;1400.0;4;3.0%;5432.0;Crédito;Fernanda Lima
+332;24/03/2024;3;Sul;Tablet Lenovo;1400.0;2;14.0%;2408.0;Pix;Ana Paula
+333;02/09/2024;9;Norte;Notebook Dell;3200.0;1;6.0%;3008.0;Pix;João Victor
+334;23/02/2024;2;Nordeste;Notebook Dell;3200.0;2;8.0%;5888.0;Crédito;Ana Paula
+335;21/10/2024;10;Sul;Tablet Lenovo;1400.0;4;0.0%;5600.0;Pix;Tatiana Braga
+336;01/01/2024;1;Sul;Mouse Gamer;180.0;5;15.0%;765.0;Débito;Tatiana Braga
+337;04/03/2024;3;Norte;Impressora HP;680.0;2;4.0%;1305.6;Pix;Mariana Costa
+338;09/06/2024;6;Sudeste;Smartphone Samsung;1800.0;3;14.0%;4644.0;Crédito;João Victor
+339;08/12/2024;12;Centro-Oeste;Smartphone Samsung;1800.0;1;1.0%;1782.0;Crédito;Tatiana Braga
+340;16/09/2024;9;Norte;Notebook Dell;3200.0;2;1.0%;6336.0;Crédito;Rafael Souza
+341;28/10/2024;10;Norte;Impressora HP;680.0;1;3.0%;659.6;Pix;Lucas Ferreira
+342;02/05/2024;5;Norte;Mouse Gamer;180.0;5;8.0%;828.0;Débito;Fernanda Lima
+343;01/06/2024;6;Nordeste;SSD 1TB;380.0;2;11.0%;676.4;Pix;Tatiana Braga
+344;10/02/2024;2;Nordeste;SSD 1TB;380.0;2;9.0%;691.6;Crédito;Rafael Souza
+345;25/07/2024;7;Nordeste;Smartphone Samsung;1800.0;5;11.0%;8010.0;Crédito;Ana Paula
+346;14/02/2024;2;Nordeste;Smartphone Samsung;1800.0;3;9.0%;4914.0;Pix;Tatiana Braga
+347;01/06/2024;6;Centro-Oeste;Tablet Lenovo;1400.0;4;3.0%;5432.0;Pix;Tatiana Braga
+348;06/07/2024;7;Sul;Webcam HD;250.0;1;12.0%;220.0;Crédito;João Victor
+349;03/12/2024;12;Norte;Mouse Gamer;180.0;2;6.0%;338.4;Pix;Fernanda Lima
+350;13/12/2024;12;Centro-Oeste;Headset Bluetooth;420.0;1;1.0%;415.8;Crédito;Lucas Ferreira
+351;25/06/2024;6;Centro-Oeste;Smartphone Samsung;1800.0;2;1.0%;3564.0;Crédito;Lucas Ferreira
+352;18/09/2024;9;Sul;Webcam HD;250.0;1;0.0%;250.0;Crédito;Carlos Mendes
+353;20/10/2024;10;Centro-Oeste;Webcam HD;250.0;1;4.0%;240.0;Crédito;Carlos Mendes
+354;18/12/2024;12;Nordeste;SSD 1TB;380.0;5;3.0%;1843.0;Crédito;Fernanda Lima
+355;09/03/2024;3;Centro-Oeste;Mouse Gamer;180.0;4;2.0%;705.6;Débito;Tatiana Braga
+356;14/05/2024;5;Centro-Oeste;Tablet Lenovo;1400.0;1;5.0%;1330.0;Débito;Lucas Ferreira
+357;20/10/2024;10;Nordeste;Tablet Lenovo;1400.0;1;2.0%;1372.0;Débito;Tatiana Braga
+358;27/06/2024;6;Sul;Webcam HD;250.0;3;7.0%;697.5;Crédito;Fernanda Lima
+359;11/05/2024;5;Sul;Teclado Mecânico;320.0;4;5.0%;1216.0;Crédito;Rafael Souza
+360;24/05/2024;5;Sudeste;SSD 1TB;380.0;2;5.0%;722.0;Crédito;Tatiana Braga
+361;04/06/2024;6;Sul;Teclado Mecânico;320.0;5;15.0%;1360.0;Débito;Ana Paula
+362;15/12/2024;12;Nordeste;Tablet Lenovo;1400.0;3;12.0%;3696.0;Débito;Tatiana Braga
+363;16/11/2024;11;Nordeste;Mouse Gamer;180.0;2;4.0%;345.6;Débito;Tatiana Braga
+364;03/07/2024;7;Sudeste;SSD 1TB;380.0;4;9.0%;1383.2;Pix;Tatiana Braga
+365;02/09/2024;9;Centro-Oeste;Impressora HP;680.0;5;10.0%;3060.0;Débito;Carlos Mendes
+366;22/04/2024;4;Centro-Oeste;"Monitor LG 24""";950.0;5;1.0%;4702.5;Pix;Tatiana Braga
+367;26/06/2024;6;Sudeste;Smartphone Samsung;1800.0;1;1.0%;1782.0;Débito;João Victor
+368;12/08/2024;8;Sudeste;Tablet Lenovo;1400.0;5;10.0%;6300.0;Débito;Rafael Souza
+369;16/01/2024;1;Norte;Mouse Gamer;180.0;4;14.0%;619.2;Débito;Carlos Mendes
+370;05/12/2024;12;Centro-Oeste;Mouse Gamer;180.0;3;7.0%;502.2;Débito;Lucas Ferreira
+371;16/06/2024;6;Norte;Tablet Lenovo;1400.0;4;5.0%;5320.0;Crédito;Ana Paula
+372;04/12/2024;12;Norte;Headset Bluetooth;420.0;1;10.0%;378.0;Débito;João Victor
+373;06/09/2024;9;Sul;"Monitor LG 24""";950.0;3;8.0%;2622.0;Crédito;João Victor
+374;21/07/2024;7;Nordeste;"Monitor LG 24""";950.0;4;6.0%;3572.0;Pix;João Victor
+375;19/08/2024;8;Sudeste;Webcam HD;250.0;1;11.0%;222.5;Débito;Mariana Costa
+376;26/12/2024;12;Norte;SSD 1TB;380.0;1;12.0%;334.4;Pix;Fernanda Lima
+377;11/06/2024;6;Nordeste;Tablet Lenovo;1400.0;1;4.0%;1344.0;Crédito;Rafael Souza
+378;13/10/2024;10;Sul;Webcam HD;250.0;5;2.0%;1225.0;Crédito;Lucas Ferreira
+379;06/10/2024;10;Centro-Oeste;SSD 1TB;380.0;5;1.0%;1881.0;Débito;Rafael Souza
+380;08/02/2024;2;Centro-Oeste;Smartphone Samsung;1800.0;2;6.0%;3384.0;Débito;Tatiana Braga
+381;20/07/2024;7;Nordeste;SSD 1TB;380.0;4;6.0%;1428.8;Crédito;Fernanda Lima
+382;06/09/2024;9;Sudeste;Mouse Gamer;180.0;2;3.0%;349.2;Crédito;Ana Paula
+383;01/06/2024;6;Sudeste;"Monitor LG 24""";950.0;2;12.0%;1672.0;Pix;Lucas Ferreira
+384;22/07/2024;7;Sudeste;Webcam HD;250.0;4;7.0%;930.0;Débito;Ana Paula
+385;10/04/2024;4;Norte;Mouse Gamer;180.0;2;8.0%;331.2;Débito;Lucas Ferreira
+386;24/10/2024;10;Sudeste;Impressora HP;680.0;5;2.0%;3332.0;Débito;Mariana Costa
+387;27/09/2024;9;Centro-Oeste;Impressora HP;680.0;1;11.0%;605.2;Crédito;João Victor
+388;04/07/2024;7;Nordeste;Mouse Gamer;180.0;1;7.0%;167.4;Crédito;Carlos Mendes
+389;28/08/2024;8;Norte;Teclado Mecânico;320.0;2;12.0%;563.2;Pix;Rafael Souza
+390;20/12/2024;12;Sudeste;"Monitor LG 24""";950.0;5;2.0%;4655.0;Débito;João Victor
+391;19/01/2024;1;Centro-Oeste;Impressora HP;680.0;3;9.0%;1856.4;Débito;Rafael Souza
+392;10/12/2024;12;Centro-Oeste;SSD 1TB;380.0;3;14.0%;980.4;Pix;Carlos Mendes
+393;25/03/2024;3;Sudeste;Notebook Dell;3200.0;3;13.0%;8352.0;Débito;Fernanda Lima
+394;05/04/2024;4;Centro-Oeste;Teclado Mecânico;320.0;4;7.0%;1190.4;Pix;Mariana Costa
+395;14/11/2024;11;Sudeste;Tablet Lenovo;1400.0;1;10.0%;1260.0;Débito;Tatiana Braga
+396;24/09/2024;9;Centro-Oeste;Headset Bluetooth;420.0;4;14.0%;1444.8;Crédito;Ana Paula
+397;03/12/2024;12;Sudeste;Headset Bluetooth;420.0;1;12.0%;369.6;Crédito;João Victor
+398;27/07/2024;7;Nordeste;Tablet Lenovo;1400.0;3;5.0%;3990.0;Crédito;Rafael Souza
+399;19/09/2024;9;Nordeste;SSD 1TB;380.0;4;12.0%;1337.6;Pix;Ana Paula
+400;04/01/2024;1;Sudeste;Notebook Dell;3200.0;1;14.0%;2752.0;Débito;Lucas Ferreira
+401;01/08/2024;8;Sudeste;Teclado Mecânico;320.0;2;13.0%;556.8;Crédito;Fernanda Lima
+402;03/05/2024;5;Centro-Oeste;Mouse Gamer;180.0;1;6.0%;169.2;Pix;Fernanda Lima
+403;13/01/2024;1;Centro-Oeste;Teclado Mecânico;320.0;4;10.0%;1152.0;Pix;Carlos Mendes
+404;07/01/2024;1;Sudeste;Smartphone Samsung;1800.0;2;9.0%;3276.0;Pix;Lucas Ferreira
+405;01/01/2024;1;Centro-Oeste;Smartphone Samsung;1800.0;4;10.0%;6480.0;Crédito;Carlos Mendes
+406;13/04/2024;4;Norte;Smartphone Samsung;1800.0;1;5.0%;1710.0;Crédito;Fernanda Lima
+407;25/07/2024;7;Nordeste;"Monitor LG 24""";950.0;1;8.0%;874.0;Débito;Fernanda Lima
+408;12/08/2024;8;Nordeste;"Monitor LG 24""";950.0;4;9.0%;3458.0;Crédito;João Victor
+409;04/02/2024;2;Nordeste;Smartphone Samsung;1800.0;5;11.0%;8010.0;Crédito;Tatiana Braga
+410;26/06/2024;6;Nordeste;Teclado Mecânico;320.0;3;10.0%;864.0;Débito;Mariana Costa
+411;01/12/2024;12;Centro-Oeste;Teclado Mecânico;320.0;5;9.0%;1456.0;Débito;Tatiana Braga
+412;21/05/2024;5;Norte;Teclado Mecânico;320.0;4;6.0%;1203.2;Débito;Lucas Ferreira
+413;20/11/2024;11;Norte;Impressora HP;680.0;1;15.0%;578.0;Crédito;Fernanda Lima
+414;28/07/2024;7;Sul;Webcam HD;250.0;3;8.0%;690.0;Débito;Lucas Ferreira
+415;01/02/2024;2;Sul;Smartphone Samsung;1800.0;1;4.0%;1728.0;Débito;Ana Paula
+416;17/07/2024;7;Centro-Oeste;Impressora HP;680.0;4;6.0%;2556.8;Crédito;Carlos Mendes
+417;18/11/2024;11;Sul;SSD 1TB;380.0;2;4.0%;729.6;Crédito;Carlos Mendes
+418;07/09/2024;9;Nordeste;Impressora HP;680.0;3;6.0%;1917.6;Pix;Carlos Mendes
+419;23/05/2024;5;Sudeste;Teclado Mecânico;320.0;1;4.0%;307.2;Crédito;Carlos Mendes
+420;20/08/2024;8;Sul;Notebook Dell;3200.0;3;10.0%;8640.0;Pix;Fernanda Lima
+421;01/02/2024;2;Nordeste;Notebook Dell;3200.0;2;7.0%;5952.0;Crédito;Mariana Costa
+422;12/03/2024;3;Nordeste;Mouse Gamer;180.0;1;12.0%;158.4;Débito;Rafael Souza
+423;09/07/2024;7;Sul;Smartphone Samsung;1800.0;3;11.0%;4806.0;Pix;Carlos Mendes
+424;15/08/2024;8;Sul;Headset Bluetooth;420.0;1;7.0%;390.6;Pix;Fernanda Lima
+425;06/06/2024;6;Centro-Oeste;Smartphone Samsung;1800.0;5;10.0%;8100.0;Débito;João Victor
+426;17/12/2024;12;Norte;Notebook Dell;3200.0;1;4.0%;3072.0;Crédito;Rafael Souza
+427;05/07/2024;7;Nordeste;Notebook Dell;3200.0;5;12.0%;14080.0;Pix;Tatiana Braga
+428;11/04/2024;4;Nordeste;Webcam HD;250.0;3;4.0%;720.0;Débito;Rafael Souza
+429;17/02/2024;2;Norte;"Monitor LG 24""";950.0;2;12.0%;1672.0;Débito;Tatiana Braga
+430;15/02/2024;2;Centro-Oeste;Mouse Gamer;180.0;3;1.0%;534.6;Crédito;Ana Paula
+431;07/06/2024;6;Centro-Oeste;SSD 1TB;380.0;3;11.0%;1014.6;Débito;Lucas Ferreira
+432;19/06/2024;6;Sudeste;Teclado Mecânico;320.0;5;11.0%;1424.0;Débito;Fernanda Lima
+433;14/01/2024;1;Norte;Teclado Mecânico;320.0;5;5.0%;1520.0;Pix;Ana Paula
+434;01/06/2024;6;Sudeste;Mouse Gamer;180.0;1;3.0%;174.6;Débito;Tatiana Braga
+435;02/08/2024;8;Nordeste;Mouse Gamer;180.0;1;1.0%;178.2;Débito;Tatiana Braga
+436;12/12/2024;12;Sudeste;Smartphone Samsung;1800.0;5;1.0%;8910.0;Débito;Tatiana Braga
+437;19/02/2024;2;Sul;Notebook Dell;3200.0;4;10.0%;11520.0;Débito;João Victor
+438;09/05/2024;5;Centro-Oeste;Webcam HD;250.0;3;5.0%;712.5;Crédito;João Victor
+439;07/02/2024;2;Nordeste;SSD 1TB;380.0;1;2.0%;372.4;Débito;Lucas Ferreira
+440;11/08/2024;8;Sudeste;Smartphone Samsung;1800.0;5;5.0%;8550.0;Débito;Lucas Ferreira
+441;15/05/2024;5;Centro-Oeste;Smartphone Samsung;1800.0;1;2.0%;1764.0;Pix;Mariana Costa
+442;23/12/2024;12;Sul;Notebook Dell;3200.0;2;13.0%;5568.0;Crédito;Fernanda Lima
+443;23/02/2024;2;Nordeste;Headset Bluetooth;420.0;4;8.0%;1545.6;Pix;Mariana Costa
+444;27/05/2024;5;Nordeste;Notebook Dell;3200.0;4;13.0%;11136.0;Pix;João Victor
+445;15/02/2024;2;Norte;"Monitor LG 24""";950.0;1;0.0%;950.0;Débito;Fernanda Lima
+446;27/04/2024;4;Sudeste;Headset Bluetooth;420.0;1;9.0%;382.2;Crédito;Carlos Mendes
+447;03/01/2024;1;Nordeste;Tablet Lenovo;1400.0;2;1.0%;2772.0;Crédito;Carlos Mendes
+448;15/01/2024;1;Norte;"Monitor LG 24""";950.0;5;6.0%;4465.0;Pix;Tatiana Braga
+449;01/08/2024;8;Sudeste;Webcam HD;250.0;2;5.0%;475.0;Débito;Mariana Costa
+450;15/05/2024;5;Nordeste;Notebook Dell;3200.0;5;9.0%;14560.0;Débito;Mariana Costa
+451;14/08/2024;8;Sul;Tablet Lenovo;1400.0;1;1.0%;1386.0;Crédito;Fernanda Lima
+452;07/07/2024;7;Sul;Teclado Mecânico;320.0;5;12.0%;1408.0;Crédito;Rafael Souza
+453;18/08/2024;8;Sudeste;Headset Bluetooth;420.0;5;8.0%;1932.0;Crédito;Mariana Costa
+454;01/03/2024;3;Centro-Oeste;SSD 1TB;380.0;2;0.0%;760.0;Crédito;Ana Paula
+455;17/08/2024;8;Centro-Oeste;SSD 1TB;380.0;2;15.0%;646.0;Débito;João Victor
+456;08/11/2024;11;Centro-Oeste;Impressora HP;680.0;1;11.0%;605.2;Débito;Tatiana Braga
+457;27/06/2024;6;Nordeste;"Monitor LG 24""";950.0;2;9.0%;1729.0;Pix;Rafael Souza
+458;01/10/2024;10;Centro-Oeste;SSD 1TB;380.0;5;2.0%;1862.0;Débito;Lucas Ferreira
+459;10/09/2024;9;Nordeste;Tablet Lenovo;1400.0;1;1.0%;1386.0;Débito;João Victor
+460;17/01/2024;1;Sudeste;Notebook Dell;3200.0;3;14.0%;8256.0;Débito;Fernanda Lima
+461;23/06/2024;6;Nordeste;Headset Bluetooth;420.0;1;0.0%;420.0;Pix;Fernanda Lima
+462;28/02/2024;2;Sul;Headset Bluetooth;420.0;1;6.0%;394.8;Pix;Tatiana Braga
+463;04/10/2024;10;Centro-Oeste;Mouse Gamer;180.0;3;2.0%;529.2;Débito;Tatiana Braga
+464;16/11/2024;11;Centro-Oeste;"Monitor LG 24""";950.0;5;10.0%;4275.0;Pix;Rafael Souza
+465;22/04/2024;4;Sul;"Monitor LG 24""";950.0;4;5.0%;3610.0;Pix;Mariana Costa
+466;06/03/2024;3;Norte;SSD 1TB;380.0;4;13.0%;1322.4;Pix;Ana Paula
+467;20/03/2024;3;Centro-Oeste;SSD 1TB;380.0;2;10.0%;684.0;Débito;Lucas Ferreira
+468;11/03/2024;3;Norte;Teclado Mecânico;320.0;3;15.0%;816.0;Débito;Carlos Mendes
+469;22/12/2024;12;Centro-Oeste;Tablet Lenovo;1400.0;1;4.0%;1344.0;Débito;Carlos Mendes
+470;09/06/2024;6;Norte;Notebook Dell;3200.0;1;6.0%;3008.0;Pix;Tatiana Braga
+471;14/03/2024;3;Sudeste;Webcam HD;250.0;3;8.0%;690.0;Débito;Lucas Ferreira
+472;21/10/2024;10;Nordeste;"Monitor LG 24""";950.0;4;1.0%;3762.0;Débito;Mariana Costa
+473;11/01/2024;1;Centro-Oeste;Smartphone Samsung;1800.0;1;5.0%;1710.0;Crédito;Fernanda Lima
+474;03/12/2024;12;Sul;Smartphone Samsung;1800.0;3;9.0%;4914.0;Pix;Lucas Ferreira
+475;01/12/2024;12;Sudeste;"Monitor LG 24""";950.0;5;13.0%;4132.5;Débito;Ana Paula
+476;11/02/2024;2;Nordeste;Teclado Mecânico;320.0;4;10.0%;1152.0;Pix;Mariana Costa
+477;10/11/2024;11;Centro-Oeste;Teclado Mecânico;320.0;1;1.0%;316.8;Pix;Lucas Ferreira
+478;02/03/2024;3;Centro-Oeste;Notebook Dell;3200.0;4;1.0%;12672.0;Pix;Lucas Ferreira
+479;04/04/2024;4;Norte;Teclado Mecânico;320.0;2;10.0%;576.0;Débito;Lucas Ferreira
+480;10/02/2024;2;Sudeste;Tablet Lenovo;1400.0;4;13.0%;4872.0;Crédito;Carlos Mendes
+481;18/11/2024;11;Sudeste;"Monitor LG 24""";950.0;3;13.0%;2479.5;Crédito;Fernanda Lima
+482;02/08/2024;8;Centro-Oeste;Tablet Lenovo;1400.0;4;4.0%;5376.0;Crédito;Ana Paula
+483;25/03/2024;3;Norte;Smartphone Samsung;1800.0;3;12.0%;4752.0;Crédito;João Victor
+484;02/09/2024;9;Sudeste;Impressora HP;680.0;4;14.0%;2339.2;Pix;Lucas Ferreira
+485;08/10/2024;10;Sudeste;Mouse Gamer;180.0;1;6.0%;169.2;Pix;Ana Paula
+486;19/09/2024;9;Sul;SSD 1TB;380.0;5;2.0%;1862.0;Crédito;Fernanda Lima
+487;07/03/2024;3;Nordeste;"Monitor LG 24""";950.0;1;6.0%;893.0;Pix;Tatiana Braga
+488;27/04/2024;4;Nordeste;SSD 1TB;380.0;3;5.0%;1083.0;Pix;Carlos Mendes
+489;13/02/2024;2;Sul;Webcam HD;250.0;5;5.0%;1187.5;Crédito;Lucas Ferreira
+490;26/01/2024;1;Sul;SSD 1TB;380.0;5;12.0%;1672.0;Débito;Tatiana Braga
+491;05/03/2024;3;Sul;SSD 1TB;380.0;5;11.0%;1691.0;Débito;Carlos Mendes
+492;25/10/2024;10;Norte;Mouse Gamer;180.0;5;13.0%;783.0;Crédito;Mariana Costa
+493;21/07/2024;7;Sudeste;SSD 1TB;380.0;5;7.0%;1767.0;Débito;Mariana Costa
+494;05/07/2024;7;Sul;SSD 1TB;380.0;4;1.0%;1504.8;Crédito;João Victor
+495;24/01/2024;1;Sudeste;Mouse Gamer;180.0;3;0.0%;540.0;Crédito;Mariana Costa
+496;27/05/2024;5;Sudeste;Smartphone Samsung;1800.0;2;2.0%;3528.0;Pix;Lucas Ferreira
+497;09/06/2024;6;Sudeste;SSD 1TB;380.0;1;3.0%;368.6;Débito;Tatiana Braga
+498;16/12/2024;12;Sul;Headset Bluetooth;420.0;1;8.0%;386.4;Débito;Carlos Mendes
+499;23/05/2024;5;Sul;Webcam HD;250.0;2;12.0%;440.0;Pix;Ana Paula
+500;07/03/2024;3;Nordeste;Notebook Dell;3200.0;2;0.0%;6400.0;Débito;Rafael Souza
